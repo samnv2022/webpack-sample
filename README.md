@@ -6,3 +6,4 @@ yarn install
 
 2. Watch change file:
 npx webpack --watch --config webpack.config.js
+Or npm run build

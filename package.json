@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "build": "npx webpack --watch --config webpack.config.js"
+  },
   "devDependencies": {
     "@babel/core": "^7.21.0",
     "@babel/preset-env": "^7.20.2",

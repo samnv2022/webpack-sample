@@ -5,7 +5,7 @@ module.exports = {
   mode: 'production',
   entry: {
     app: './src/js/index.js',
-    page2: [path.resolve(__dirname, 'src/scss/page2.scss')],
+    // page2: [path.resolve(__dirname, 'src/scss/page2.scss')],
   },
   output: {
     filename: '[name].min.js',
